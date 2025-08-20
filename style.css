@@ -88,3 +88,17 @@ a {
   min-height: 50px;
   min-width: 50px;
 }
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  background-color: rgba(205, 207, 204, 0.801);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  box-shadow: 0 -4px 16px rgba(0, 0, 0, 0.452);
+  border-radius: 5px;
+}
