@@ -102,3 +102,9 @@ footer {
   box-shadow: 0 -4px 16px rgba(0, 0, 0, 0.452);
   border-radius: 5px;
 }
+
+@media (max-width: 480px) {
+  footer {
+    font-size: small;
+  }
+}
